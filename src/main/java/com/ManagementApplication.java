@@ -39,8 +39,8 @@ public class ManagementApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-//		Registration();
-//		Country();
+		Registration();
+		Country();
 	}
 
 	
